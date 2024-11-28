@@ -8,7 +8,7 @@ import shutil
 import threading
 import time
 
-API_TOKEN = '7729478160:AAGDWGvR_l6-cfbBVwDlG6vFvAVwAUMZeOA'  # استبدل بـ API Token الخاص بك
+API_TOKEN = '7729478160:AAGBlV8QV8IF7XLV7esZZRSxFBCYLlERhq8'  # استبدل بـ API Token الخاص بك
 bot = telebot.TeleBot(API_TOKEN)
 
 DEVELOPER_ID = 5859412391  # استبدل بـ ID المطور
